@@ -1,0 +1,6 @@
+C:\Users\nikok\OneDrive\Dokumenty\KURS CS\adapter\adapter\bin\Debug\adapter.exe.config
+C:\Users\nikok\OneDrive\Dokumenty\KURS CS\adapter\adapter\bin\Debug\adapter.exe
+C:\Users\nikok\OneDrive\Dokumenty\KURS CS\adapter\adapter\bin\Debug\adapter.pdb
+C:\Users\nikok\OneDrive\Dokumenty\KURS CS\adapter\adapter\obj\Debug\adapter.csproj.CoreCompileInputs.cache
+C:\Users\nikok\OneDrive\Dokumenty\KURS CS\adapter\adapter\obj\Debug\adapter.exe
+C:\Users\nikok\OneDrive\Dokumenty\KURS CS\adapter\adapter\obj\Debug\adapter.pdb
